@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/KynSec/.github/main/profile/assets/kyn-logo.png" alt="Kyn" width="130" />
-
 # K Y N
 
 ### High-speed, offline-first security tooling.
